@@ -1,0 +1,5 @@
+k Algoritmo  Silhouette    Inertia  Iterações  Tempo (s)
+3  Hardcore    0.459948 139.820496          6   0.002001
+3   Sklearn    0.459948 139.820496          4   0.090445
+5  Hardcore    0.304581 104.049124          5   0.002256
+5   Sklearn    0.345901  90.927514          8   0.026844
